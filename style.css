@@ -19,7 +19,7 @@ td:not(.nums) {
 }
 
 @media screen and (max-width: 575px) {
-  .jumbotron .display-3 {
+  .jumbotron .display-3, .twoc {
     margin-top: 32px;
   }
 }
