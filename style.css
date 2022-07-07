@@ -17,3 +17,9 @@ td:not(.nums) {
     font-size: 48px;
   }
 }
+
+@media screen and (max-width: 575px) {
+  .jumbotron .display-3 {
+    margin-top: 32px;
+  }
+}
