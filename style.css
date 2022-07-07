@@ -1,0 +1,19 @@
+table {
+  margin-top: 32px;
+}
+
+td:not(.nums) {
+  color: #007bff;
+}
+.footer {
+  background-color: #f5f5f5;
+  color: #6c757d;
+  padding: 25px 0;
+  margin-top: 73px;
+}
+
+@media screen and (max-width: 390px) {
+  .jumbotron .display-3 {
+    font-size: 48px;
+  }
+}
